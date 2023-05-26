@@ -1,0 +1,17 @@
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\lastone.repositories.dll.config
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\lastone.repositories.dll
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\lastone.repositories.pdb
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\EntityFramework.dll
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\lastone.Helpers.dll
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\lastone.models.dll
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\lastone.Helpers.pdb
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\lastone.models.pdb
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\lastone.models.dll.config
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\EntityFramework.xml
+C:\Users\sit302\source\repos\lastone.repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sit302\source\repos\lastone.repositories\obj\Debug\lastone.repositories.csproj.AssemblyReference.cache
+C:\Users\sit302\source\repos\lastone.repositories\obj\Debug\lastone.repositories.csproj.CoreCompileInputs.cache
+C:\Users\sit302\source\repos\lastone.repositories\obj\Debug\lastone.repositories.csproj.CopyComplete
+C:\Users\sit302\source\repos\lastone.repositories\obj\Debug\lastone.repositories.dll
+C:\Users\sit302\source\repos\lastone.repositories\obj\Debug\lastone.repositories.pdb

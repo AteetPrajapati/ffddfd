@@ -1,0 +1,12 @@
+C:\Users\sit302\source\repos\lastone.Helpers\bin\Debug\lastone.Helpers.dll
+C:\Users\sit302\source\repos\lastone.Helpers\bin\Debug\lastone.Helpers.pdb
+C:\Users\sit302\source\repos\lastone.Helpers\bin\Debug\lastone.models.dll
+C:\Users\sit302\source\repos\lastone.Helpers\bin\Debug\EntityFramework.dll
+C:\Users\sit302\source\repos\lastone.Helpers\bin\Debug\lastone.models.pdb
+C:\Users\sit302\source\repos\lastone.Helpers\bin\Debug\lastone.models.dll.config
+C:\Users\sit302\source\repos\lastone.Helpers\bin\Debug\EntityFramework.xml
+C:\Users\sit302\source\repos\lastone.Helpers\obj\Debug\lastone.Helpers.csproj.AssemblyReference.cache
+C:\Users\sit302\source\repos\lastone.Helpers\obj\Debug\lastone.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\sit302\source\repos\lastone.Helpers\obj\Debug\lastone.Helpers.csproj.CopyComplete
+C:\Users\sit302\source\repos\lastone.Helpers\obj\Debug\lastone.Helpers.dll
+C:\Users\sit302\source\repos\lastone.Helpers\obj\Debug\lastone.Helpers.pdb
